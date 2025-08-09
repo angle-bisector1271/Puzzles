@@ -1,0 +1,6 @@
+You roll a x sided dice untill you get a sequence of y consecutive 1's.
+What is the expected number of rolls?
+
+Easier versions of the problem:
+Solve for 2 consecutive 1's for a 6-sided dice. 
+Solve for "1-2" for a 6-sided dice.
