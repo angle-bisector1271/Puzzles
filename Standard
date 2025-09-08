@@ -1,0 +1,12 @@
+There are n balls numbered from 1 to n and u pick out k balls. What is the expected value of the maximum number on a ball you picked?
+You select N points randomly around a circle. What is the probability that their convex hull does not contain the center?
+There are n points numbered 0 to n-1 around a circle. You start from 0 and in each step you move either left or right with equal probability. What is the expected number of steps to reach point k?
+X and Y are standard normal random variables. Find probability that Y>kX.
+What distribution does the ratio of 2 standard normal distributed random variables follow?
+What is the general formula for expected number of coin flips before k comsecutive heads?
+For a random sample of size M from {1,…,N} without replacement, the expected k-th smallest element is?
+An event happens with probability p. What is the expected number of experiments for that event to happen k consecutive times?
+What is expected value of e^(kY) where Y is a normal random variable?
+Tell me a neat trick when dealing with the expectation of a discrete integer valued random variable?
+List some notable properties of poisson random variable and poisson processes.
+What is the general formula for joint density of pair of order statistics?
