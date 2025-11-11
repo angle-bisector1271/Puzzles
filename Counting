@@ -1,0 +1,4 @@
+Linear non-consecutive solutions of r elements: (n-1+r)C(r)
+Circular non-consecutive selections of r elements: (n/[n-r])(n-r)C(r)
+Ballot number: [(a+b)C(a)](a-b)/(a+b)
+
